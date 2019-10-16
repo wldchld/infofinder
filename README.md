@@ -1,4 +1,5 @@
 # Infofinder
+## TIE-13106 Project Work 2019
 for: Cybercom Finland Oy  
 by: Simply the bestest (G06)
 
@@ -17,5 +18,5 @@ Riina Pussinen, Product Owner
 Saku Lehtinen, QA Lead  
 Jukka Ilmanen, UX Expert  
 Otto Sahanen, Software Architect  
-Jukka Pajulehto, Developer 
+Jukka Pajulehto, Developer  
 Monika Bohara, Developer  
