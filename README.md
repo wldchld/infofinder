@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Infofinder
+for: Cybercom Finland Oy  
+by: Simply the bestest (G06)
 
-You can use the [editor on GitHub](https://github.com/wldchld/infofinder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The project
+The system provides a tool for event organizers to create events and mark the event’s services and points of interest on a map. The event participant can use app with the map to find the services and sends location data to the service. The participant can see the current heatmap of the event area. Participant can use this data for example to pick a less crowded toilet. The organizer can view the heatmaps for the entire duration of the event and use this data to optimize the locations of the services and give better guidance to participants. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wldchld/infofinder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### The team
+Mikko Ollila, Project Manager  
+Riina Pussinen, Product Owner  
+Saku Lehtinen, QA Lead  
+Jukka Ilmanen, UX Expert  
+Otto Sahanen, Software Architect  
+Jukka Pajulehto, Developer 
+Monika Bohara, Developer  
