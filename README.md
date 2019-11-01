@@ -20,3 +20,5 @@ Jukka Ilmanen, UX Expert
 Otto Sahanen, Software Architect  
 Jukka Pajulehto, Developer  
 Monika Bohara, Developer  
+
+<img src='https://github.com/wldchld/infofinder/blob/master/images/burnup.png'/>
