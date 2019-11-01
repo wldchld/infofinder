@@ -31,7 +31,7 @@ Jukka Pajulehto, Developer
 Monika Bohara, Developer  
 
 ### Burnup chart
-<img src='https://github.com/wldchld/infofinder/blob/master/images/burnup.PNG'/>
+<img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/burnup.PNG'/>
 
 ### Hour log
 
