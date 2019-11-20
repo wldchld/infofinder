@@ -31,20 +31,14 @@ Jukka Pajulehto, Developer
 Monika Bohara, Developer  
 
 ### Burnup chart
-<img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/burnup.PNG'/>
+<img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/burnup.png'/>
 
 ### Hour log
 
-Team member    |  37  |  38  |  39  |  40  |  41  |  42  |  43  |  SUM  |
-|--------------|------|------|------|------|------|------|------|-------|
-Jukka Ilmanen  |0     |8     |6     |5,5   |6,5   |6     |8     |40     |
-Jukka Pajulehto|0     |7     |6     |2     |0     |5     |3     |23     |
-Mikko Ollila   |0,5   |12    |16,25 |5,75  |5     |11    |7,5   |58     |
-Monika Bohara  |0     |6     |7     |4     |2     |12    |      |31     |
-Otto Sahanen   |      |10    |9     |5     |4,5   |9     |4     |41,5   |
-Riina Pussinen |0     |7     |9     |3     |5     |14    |2     |40     |
-Saku Lehtinen  |0     |7     |6     |2     |8     |8     |      |31     |
-(Cumulative)   |0,5   |57    |59,25 |27,25 |31    |65    |24,5  |264,5  |
+## Working hours by person
+<img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_person.png'/>
 
+## Working hours by category
+<img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_category.png'/>
 
-#### 2019-11-01
+#### 2019-11-20
