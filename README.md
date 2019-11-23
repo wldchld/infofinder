@@ -4,7 +4,7 @@
 for: Cybercom Finland Oy  
 by: Simply the bestest (G06)
 
-### The project
+## The project
 The system provides a tool for event organizers to create events and mark the event’s services and points of interest on a map. 
 The event participant can use app with the map to find the services and sends location data to the service. The participant can 
 see the current heatmap of the event area. Participant can use this data for example to pick a less crowded toilet. The organizer 
@@ -21,7 +21,7 @@ the customer. All the team members have access to both channels.
 
 Documentation for the project is held in a shared OneDrive folder to enable easy access and editing for all the group members. 
 
-### The team
+## The team
 Mikko Ollila, Project Manager  
 Riina Pussinen, Product Owner  
 Saku Lehtinen, QA Lead  
@@ -30,15 +30,16 @@ Otto Sahanen, Software Architect
 Jukka Pajulehto, Developer  
 Monika Bohara, Developer  
 
-### Burnup chart
+## Burnup chart
 <img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/burnup.png'/>
 
-### Hour log
+## Hour log
 
-## Working hours by person
+### Working hours by person
 <img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_person.png'/>
 
-## Working hours by category
+### Working hours by category
 <img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_categories.png'/>
+(Data was not collected until week 43.)
 
-#### 2019-11-20
+#### Updated: 2019-11-23
