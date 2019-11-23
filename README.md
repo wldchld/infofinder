@@ -39,6 +39,6 @@ Monika Bohara, Developer
 <img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_person.png'/>
 
 ## Working hours by category
-<img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_category.png'/>
+<img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_categories.png'/>
 
 #### 2019-11-20
