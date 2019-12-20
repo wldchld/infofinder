@@ -42,4 +42,4 @@ Monika Bohara, Developer
 <img src='https://raw.githubusercontent.com/wldchld/infofinder/master/images/hours_by_categories.png'/>  
 (Data was not collected until week 43.)
 
-#### Updated: 2019-11-23
+#### Updated: 2019-12-20
